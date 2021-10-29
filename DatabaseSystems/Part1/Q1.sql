@@ -1,3 +1,3 @@
-SELECT COUNT (id) 
+SELECT COUNT(id) 
 FROM food_item 
-WHERE restraunt_id = '342';
+WHERE restaurant_id = '342'
